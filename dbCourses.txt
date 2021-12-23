@@ -1,0 +1,8 @@
+id couresName 
+0 Rus 
+1 Eng 
+2 Math 
+3 iPhone 
+4 Inf 
+5 AZ 
+6 Phys

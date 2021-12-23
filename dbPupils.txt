@@ -1,0 +1,5 @@
+id name surName age qclass 
+0 Ilya Zayvuy 17 11 
+1 Ivan Klimov 17 11 
+2 Gleb Pavlyuk 18 11 
+3 Valera Naumov 7 1
